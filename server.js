@@ -1,7 +1,7 @@
 const  express = require("express");
 const cors = require("cors");
 const router = require("./Router/movieRouter")
-
+const sequelize = require('./database/database.js')
 const connection = require("./database/dbconnect");
 
 const port = 4455;

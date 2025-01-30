@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "movie_app",
-    "host": "127.0.0.1",
+    "username": "sql8759404",
+    "password": "XS7nPKNPFu",
+    "database": "sql8759404",
+    "host": "sql8.freesqldatabase.com",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "password": "XS7nPKNPFu",
+    "database": "sql8759404",
+    "host": "sql8.freesqldatabase.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "sql8759404",
+    "password":"XS7nPKNPFu",
+    "database": "sql8759404",
+    "host":  "sql8.freesqldatabase.com",
     "dialect": "mysql"
   }
 }
